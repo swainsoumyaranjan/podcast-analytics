@@ -1,8 +1,4 @@
-Here’s a **clean and professional project description** you can use for your GitHub repository `podcast-analytics`:
-
----
-
-### 🎙️ Podcast Analytics Platform
+ 🎙️ Podcast Analytics Platform
 
 A full-stack web application for analyzing podcast data using **React (frontend)**, **FastAPI (backend)**, and **MySQL (database)**.
 
